@@ -1,0 +1,2 @@
+# Linux_ls_command
+采用C语言实现Linux系统下ls指令的部分功能
